@@ -1,4 +1,4 @@
-Juggernit.github.io
+juggernit.github.io
 ===================
 
 Default Juggernit project site
